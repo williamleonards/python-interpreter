@@ -3,9 +3,9 @@
 
 ## Authors:
 
-Eric Huber
-Patrick LaFontaine
-William Leonard Sumendap
+Eric Huber,
+Patrick LaFontaine,
+William Leonard Sumendap,
 Zaibo Wang
 
 ## About:
