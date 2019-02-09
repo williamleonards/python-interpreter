@@ -1,0 +1,273 @@
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Runner: processes
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Chooser: simple
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration suite_name = "test suite for A6-A8"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration cache_filename = "/Users/williamleonards/Documents/CORNELL UNIVERSITY/sem 3/CS 3110/a6-a7-a8/cs3110-a6-a7-a8/_build/oUnit-$(suite_name).cache"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration display = "true"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration results_style_1_X = "false"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration verbose = "false"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration health_check_interval = "1."
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration testdata_dir = "none"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration chooser = "simple"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration output_html_dir = "none"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration processes_kill_period = "5."
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration runner = "processes"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration shards = "2"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration processes_grace_period = "5."
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration log_encoding = "utf-8"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration output_junit_file = "none"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Configuration output_file = "/Users/williamleonards/Documents/CORNELL UNIVERSITY/sem 3/CS 3110/a6-a7-a8/cs3110-a6-a7-a8/_build/oUnit-$(suite_name)-$(shard_id).log"
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Using 2 workers maximum.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Starting worker number Williams-MBP#01.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Worker Williams-MBP#01 started.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Starting worker number Williams-MBP#02.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Worker Williams-MBP#02 started.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:1:PlusString, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:1:PlusString, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:1:PlusString.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:1:PlusString, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:1:PlusString is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:1:PlusString, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:1:PlusString.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:1:PlusString, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:2:Subtract, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:2:Subtract, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:0:Plus is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:2:Subtract, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:2:Subtract, test suite for A6-A8:0:Plus.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:3:Div, test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:3:Div, test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:2:Subtract is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:3:Div, test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:3:Div, test suite for A6-A8:2:Subtract.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:4:FloorDiv, test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:4:FloorDiv, test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:3:Div is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:4:FloorDiv, test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:4:FloorDiv, test suite for A6-A8:3:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:5:Mult, test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:5:Mult, test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:4:FloorDiv is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:5:Mult, test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:5:Mult, test suite for A6-A8:4:FloorDiv.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:6:Modular, test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:6:Modular.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:6:Modular, test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:5:Mult is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:6:Modular, test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:6:Modular is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:6:Modular, test suite for A6-A8:5:Mult.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:6:Modular.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:7:Exp, test suite for A6-A8:6:Modular.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:8:Div, test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:8:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:8:Div, test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:8:Div is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:8:Div, test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:7:Exp is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:8:Div.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:8:Div, test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:9:Equal, test suite for A6-A8:7:Exp.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:10:notEqual, test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:10:notEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:10:notEqual, test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:9:Equal is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:10:notEqual, test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:10:notEqual, test suite for A6-A8:9:Equal.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:10:notEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:11:GreaterThan, test suite for A6-A8:10:notEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:10:notEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:11:GreaterThan, test suite for A6-A8:10:notEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:12:LessThan, test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:12:LessThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:12:LessThan, test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:11:GreaterThan is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:12:LessThan, test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:12:LessThan, test suite for A6-A8:11:GreaterThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:12:LessThan is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:13:GreaterEqual, test suite for A6-A8:12:LessThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:12:LessThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:13:GreaterEqual, test suite for A6-A8:12:LessThan.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:14:LessEqual, test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:14:LessEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:14:LessEqual, test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:13:GreaterEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:14:LessEqual, test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:14:LessEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:14:LessEqual, test suite for A6-A8:13:GreaterEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:14:LessEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:15:And, test suite for A6-A8:14:LessEqual.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:16:Or, test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:16:Or, test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:15:And is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:16:Or.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:16:Or, test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:16:Or, test suite for A6-A8:15:And.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:17:Not, test suite for A6-A8:16:Or.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:16:Or is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:17:Not.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:17:Not, test suite for A6-A8:16:Or.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:16:Or.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:17:Not, test suite for A6-A8:16:Or.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:17:Not is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:18:Len, test suite for A6-A8:17:Not.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:17:Not.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:18:Len.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:18:Len, test suite for A6-A8:17:Not.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:19:Len2, test suite for A6-A8:18:Len.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:18:Len is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:19:Len2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:19:Len2, test suite for A6-A8:18:Len.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:18:Len.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:19:Len2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:19:Len2, test suite for A6-A8:18:Len.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:19:Len2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:20:chr, test suite for A6-A8:19:Len2.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:21:chr2, test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:21:chr2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:21:chr2, test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:20:chr is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:21:chr2, test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:21:chr2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:21:chr2, test suite for A6-A8:20:chr.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:21:chr2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:22:bool, test suite for A6-A8:21:chr2.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:23:bool2, test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:23:bool2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:23:bool2, test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:22:bool is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:23:bool2, test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:23:bool2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:23:bool2, test suite for A6-A8:22:bool.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:23:bool2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:24:int, test suite for A6-A8:23:bool2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:25:int2, test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:25:int2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:25:int2, test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:24:int is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:25:int2, test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:25:int2, test suite for A6-A8:24:int.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:25:int2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:26:float, test suite for A6-A8:25:int2.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:25:int2.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:26:float, test suite for A6-A8:25:int2.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:27:creating a dict with non-empty state, test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:27:creating a dict with non-empty state.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:27:creating a dict with non-empty state, test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:26:float is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:27:creating a dict with non-empty state, test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:27:creating a dict with non-empty state, test suite for A6-A8:26:float.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:28:creating a dict, test suite for A6-A8:27:creating a dict with non-empty state.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:27:creating a dict with non-empty state is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:28:creating a dict, test suite for A6-A8:27:creating a dict with non-empty state.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:27:creating a dict with non-empty state.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:28:creating a dict, test suite for A6-A8:27:creating a dict with non-empty state.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:29:appending a dict, test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Start test test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:29:appending a dict, test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Test test suite for A6-A8:28:creating a dict is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:29:appending a dict, test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:29:appending a dict, test suite for A6-A8:28:creating a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 2 tests running : test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: Start test test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 2 tests running : test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: Test test suite for A6-A8:29:appending a dict is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 2 tests running : test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#02 I: End test test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 2 tests running : test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 2 tests running: test suite for A6-A8:30:get value in a dict, test suite for A6-A8:29:appending a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 1 tests running : test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 1 tests running: test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 E: Test test suite for A6-A8:30:get value in a dict has failed.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 E: not equal in test test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2018-11-06T00:17:52+00:00 Williams-MBP#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2018-11-06T00:17:52+00:00 Williams-MBP#01 E: 
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 1 tests running : test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 1 tests running: test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#01 I: End test test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Still 1 tests running : test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 1 tests running: test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: 0 tests running: .
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Worker Williams-MBP#02 has ended.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Worker Williams-MBP#01 has ended.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Used 2 worker during test execution.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Run 16 tests with shard Williams-MBP#02.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Run 15 tests with shard Williams-MBP#01.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: ==============
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Summary:
+2018-11-06T00:17:52+00:00 Williams-MBP#00 E: Test test suite for A6-A8:30:get value in a dict has failed.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 E: not equal in test test suite for A6-A8:30:get value in a dict.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2018-11-06T00:17:52+00:00 Williams-MBP#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2018-11-06T00:17:52+00:00 Williams-MBP#00 E: 
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:29:appending a dict is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:28:creating a dict is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:27:creating a dict with non-empty state is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:26:float is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:25:int2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:24:int is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:23:bool2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:22:bool is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:21:chr2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:20:chr is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:19:Len2 is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:18:Len is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:17:Not is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:16:Or is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:15:And is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:14:LessEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:13:GreaterEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:12:LessThan is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:11:GreaterThan is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:10:notEqual is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:9:Equal is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:7:Exp is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:8:Div is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:6:Modular is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:5:Mult is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:4:FloorDiv is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:3:Div is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:2:Subtract is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:0:Plus is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Test test suite for A6-A8:1:PlusString is successful.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Ran: 31 tests in: 0.15 seconds.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Cases: 31.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Tried: 31.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Errors: 0.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Failures: 1.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Skip: 0.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Todo: 0.
+2018-11-06T00:17:52+00:00 Williams-MBP#00 I: Timeout: 0.

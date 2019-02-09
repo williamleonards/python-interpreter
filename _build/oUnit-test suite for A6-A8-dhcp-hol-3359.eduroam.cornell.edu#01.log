@@ -1,0 +1,60 @@
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:0:Plus.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:0:Plus is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:0:Plus.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:2:Subtract.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:2:Subtract is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:2:Subtract.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:4:FloorDiv.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:4:FloorDiv is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:4:FloorDiv.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:6:Modular.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:6:Modular is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:6:Modular.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:8:Div.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:8:Div is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:8:Div.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:10:notEqual.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:10:notEqual is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:10:notEqual.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:12:LessThan.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:12:LessThan is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:12:LessThan.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:14:LessEqual.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:14:LessEqual is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:14:LessEqual.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:16:Or.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:16:Or is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:16:Or.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:18:Len.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:18:Len is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:18:Len.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:20:chr.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:20:chr is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:20:chr.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:22:bool.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:22:bool is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:22:bool.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:24:int.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:24:int is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:24:int.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:25:int2.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:25:int2 is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:25:int2.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:27:len of [].
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:27:len of [] is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:27:len of [].
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:29:len of string.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:29:len of string is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:29:len of string.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:31:range test 2.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:31:range test 2 is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:31:range test 2.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:32:range test 3.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:32:range test 3 is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:32:range test 3.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:34:creating a dict.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:34:creating a dict is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:34:creating a dict.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Start test test suite for A6-A8:36:get value in a dict.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: Test test suite for A6-A8:36:get value in a dict is successful.
+2018-11-06T01:05:36+00:00 dhcp-hol-3359.eduroam.cornell.edu#01 I: End test test suite for A6-A8:36:get value in a dict.
